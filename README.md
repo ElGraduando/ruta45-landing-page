@@ -3,7 +3,7 @@
 ## Overview
 This project is a responsive landing page designed for a running products store. It provides direct access to purchase channels and product information, optimizing user conversion through simple and accessible design.
 
-## 🚀 Features
+## Features
 - Responsive design
 - Direct integration with WhatsApp for purchases
 - Product showcase section
